@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\bin\Debug\JURUSAN.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\JURUSAN.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.frmTentang.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.MDIParent1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.frmLogin.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.frmPendaftar.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.frmPenilaian.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.frmAwalan.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.exe.manifest
+C:\Users\User\Documents\Visual Studio 2012\Projects\WindowsApplication1\JURUSAN\JURUSAN\obj\Debug\JURUSAN.application
